@@ -8,7 +8,7 @@ const addUser = createAsyncThunk("users/add", async () => {
   });
 
   //! DEV ONLY!!!
-  await pause(1000);
+  // await pause(1000);
 
   return response.data;
 });
