@@ -5,6 +5,7 @@ import Button from "./Button";
 import Skeleton from "./Skeleton";
 import { useThunk } from "../hooks/use-thunk";
 import UsersListItem from "./UsersListItem";
+import ExpandablePanel from "./ExpandablePanel";
 
 function UsersList() {
   const [doFetchUsers, isLoadingUsers, loadingUsersError] =
