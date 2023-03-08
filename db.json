@@ -13,6 +13,32 @@
       "id": 11
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": "1"
+    },
+    {
+      "id": 11,
+      "title": "Beach Vacation",
+      "userId": "4"
+    },
+    {
+      "id": 12,
+      "title": "Road Trip USA",
+      "userId": "11"
+    },
+    {
+      "id": 13,
+      "title": "Camping Adventure",
+      "userId": "1"
+    },
+    {
+      "id": 14,
+      "title": "City Sightseeing",
+      "userId": "4"
+    }
+  ],
   "photos": []
 }
