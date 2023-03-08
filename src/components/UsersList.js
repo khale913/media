@@ -10,7 +10,6 @@ function UsersList() {
     useThunk(fetchUsers);
   const [doCreateUser, isCreatingUser, creatingUserError] = useThunk(addUser);
 
-  const dispatch = useDispatch();
   const { data } = useSelector((state) => {
     return state.users;
   });
