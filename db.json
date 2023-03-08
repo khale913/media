@@ -1,6 +1,50 @@
 {
-    "users": [{ "id": 1, "name": "Myra" }],
-    "albums": [],
-    "photos": []
-  }
-  
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Delia Stanton",
+      "id": 2
+    },
+    {
+      "name": "Sherry Doyle",
+      "id": 3
+    },
+    {
+      "name": "Ricky Smitham DDS",
+      "id": 4
+    },
+    {
+      "name": "Tracey Mertz",
+      "id": 5
+    },
+    {
+      "name": "Tomas Wuckert",
+      "id": 6
+    },
+    {
+      "name": "May Beer",
+      "id": 7
+    },
+    {
+      "name": "Milton Rempel",
+      "id": 8
+    },
+    {
+      "name": "Lance Marks",
+      "id": 9
+    },
+    {
+      "name": "Sara Kirlin",
+      "id": 10
+    },
+    {
+      "name": "Audrey Cremin",
+      "id": 11
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
