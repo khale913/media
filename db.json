@@ -5,12 +5,16 @@
       "name": "Myra"
     },
     {
-      "name": "Mr. Ryan Schmitt",
-      "id": 4
+      "name": "Myrtle Stroman",
+      "id": 2
     },
     {
-      "name": "Krystal Bogan",
-      "id": 11
+      "name": "Jordan Romaguera",
+      "id": 3
+    },
+    {
+      "name": "Darrin Corwin",
+      "id": 4
     }
   ],
   "albums": [
@@ -22,21 +26,21 @@
     {
       "id": 11,
       "title": "Beach Vacation",
-      "userId": "4"
+      "userId": "2"
     },
     {
       "id": 12,
-      "title": "Road Trip USA",
-      "userId": "11"
+      "title": "City Explorations",
+      "userId": "3"
     },
     {
       "id": 13,
-      "title": "Camping Adventure",
+      "title": "Mountain Adventure",
       "userId": "1"
     },
     {
       "id": 14,
-      "title": "City Sightseeing",
+      "title": "Tropical Paradise",
       "userId": "4"
     }
   ],
