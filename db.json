@@ -42,6 +42,16 @@
       "id": 14,
       "title": "Tropical Paradise",
       "userId": "4"
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Cotton Cheese",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Plastic Towels",
+      "id": 16
     }
   ],
   "photos": []
