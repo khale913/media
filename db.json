@@ -11,54 +11,9 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": "1"
-    },
-    {
-      "id": 13,
-      "title": "Mountain Adventure",
-      "userId": "1"
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Cotton Cheese",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Electronic Plastic Towels",
-      "id": 16
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Fresh Chair",
-      "id": 17
-    },
-    {
       "userId": 1,
       "title": "Oriental Wooden Table",
       "id": 18
-    },
-    {
-      "userId": 1,
-      "title": "Refined Concrete Shirt",
-      "id": 19
-    },
-    {
-      "userId": 1,
-      "title": "Fantastic Frozen Mouse",
-      "id": 26
-    },
-    {
-      "userId": 1,
-      "title": "Fantastic Soft Chips",
-      "id": 30
-    },
-    {
-      "userId": 1,
-      "title": "Refined Rubber Pizza",
-      "id": 31
     },
     {
       "userId": 2,
@@ -69,31 +24,6 @@
       "userId": 2,
       "title": "Incredible Soft Hat",
       "id": 33
-    },
-    {
-      "userId": 1,
-      "title": "Generic Frozen Keyboard",
-      "id": 38
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Frozen Car",
-      "id": 39
-    },
-    {
-      "userId": 1,
-      "title": "Sleek Steel Shoes",
-      "id": 42
-    },
-    {
-      "userId": 1,
-      "title": "Oriental Bronze Pizza",
-      "id": 43
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Wooden Pizza",
-      "id": 44
     },
     {
       "userId": 2,
@@ -109,6 +39,26 @@
       "userId": 2,
       "title": "Gorgeous Cotton Chips",
       "id": 47
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Granite Mouse",
+      "id": 50
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Plastic Gloves",
+      "id": 51
+    },
+    {
+      "userId": 2,
+      "title": "Elegant Steel Fish",
+      "id": 52
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Plastic Bacon",
+      "id": 53
     }
   ],
   "photos": []
