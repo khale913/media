@@ -7,10 +7,6 @@
     {
       "name": "Dean Kilback",
       "id": 2
-    },
-    {
-      "name": "Penny Koss",
-      "id": 3
     }
   ],
   "albums": [
@@ -75,26 +71,6 @@
       "id": 33
     },
     {
-      "userId": 3,
-      "title": "Elegant Plastic Bacon",
-      "id": 34
-    },
-    {
-      "userId": 3,
-      "title": "Handcrafted Wooden Keyboard",
-      "id": 35
-    },
-    {
-      "userId": 3,
-      "title": "Licensed Wooden Towels",
-      "id": 36
-    },
-    {
-      "userId": 3,
-      "title": "Intelligent Fresh Car",
-      "id": 37
-    },
-    {
       "userId": 1,
       "title": "Generic Frozen Keyboard",
       "id": 38
@@ -105,14 +81,29 @@
       "id": 39
     },
     {
-      "userId": 3,
-      "title": "Ergonomic Concrete Computer",
-      "id": 40
+      "userId": 1,
+      "title": "Sleek Steel Shoes",
+      "id": 42
     },
     {
-      "userId": 3,
-      "title": "Practical Frozen Salad",
-      "id": 41
+      "userId": 1,
+      "title": "Oriental Bronze Pizza",
+      "id": 43
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Wooden Pizza",
+      "id": 44
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Fresh Cheese",
+      "id": 45
+    },
+    {
+      "userId": 2,
+      "title": "Handmade Cotton Car",
+      "id": 46
     }
   ],
   "photos": []
